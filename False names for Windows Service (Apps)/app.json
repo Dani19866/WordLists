@@ -1,0 +1,56 @@
+[
+    {
+        "nameFile": "backgroundupdater.exe",
+        "serviceName": "BackgroundUpdater",
+        "serviceDisplay": "Background Updater",
+        "serviceDescription": "Runs in the background to check for and download updates for software and applications installed on the computer."
+    },
+    {
+        "nameFile": "filewatcher.exe",
+        "serviceName": "FileWatcher",
+        "serviceDisplay": "File Watcher",
+        "serviceDescription": "Monitors selected folders and files for changes and performs specified actions when changes occur in the background."
+    },
+    {
+        "nameFile": "connectionmonitor.exe",
+        "serviceName": "ConnectionMonitor",
+        "serviceDisplay": "Connection Monitor",
+        "serviceDescription": "Monitors network connections and internet connectivity in the background and provides notifications if a connection is lost or restored."
+    },
+    {
+        "nameFile": "backuptool.exe",
+        "serviceName": "BackupTool",
+        "serviceDisplay": "Backup Tool",
+        "serviceDescription": "Runs scheduled backups of selected files and folders in the background to ensure data safety and protection against data loss."
+    },
+    {
+        "nameFile": "remotetaskexecutor.exe",
+        "serviceName": "RemoteTaskExecutor",
+        "serviceDisplay": "Remote Task Executor",
+        "serviceDescription": "Executes pre-defined tasks and scripts on remote computers in the background for automation and remote management purposes."
+    },
+    {
+        "nameFile": "smartcleaner.exe",
+        "serviceName": "SmartCleaner",
+        "serviceDisplay": "Smart Cleaner",
+        "serviceDescription": "Monitors system performance and removes temporary files and junk data in the background to improve system performance and stability."
+    },
+    {
+        "nameFile": "applicationlogger.exe",
+        "serviceName": "ApplicationLogger",
+        "serviceDisplay": "Application Logger",
+        "serviceDescription": "Logs application usage and activity in the background for audit and analysis purposes."
+    },
+    {
+        "nameFile": "printerhelper.exe",
+        "serviceName": "PrinterHelper",
+        "serviceDisplay": "Printer Helper",
+        "serviceDescription": "Assists in managing printer drivers and printing tasks in the background to ensure smooth and efficient printing operations."
+    },
+    {
+        "nameFile": "datamonitor.exe",
+        "serviceName": "DataMonitor",
+        "serviceDisplay": "Data Monitor",
+        "serviceDescription": "Monitors data usage and bandwidth consumption in the background and provides notifications and reports on data usage patterns and trends."
+    }
+]
